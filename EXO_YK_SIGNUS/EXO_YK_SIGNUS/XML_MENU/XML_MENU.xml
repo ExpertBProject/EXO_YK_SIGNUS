@@ -1,0 +1,12 @@
+﻿<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43520" Image="" String="SIGNUS" Type="2" UniqueID="EXO-MnSIG"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="EXO-MnSIG" Image="" String="Parametrización" Type="1" UniqueID="EXO-MnSIGP"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="EXO-MnSIG" Image="" String="Gestión de Códigos" Type="2" UniqueID="EXO-MnSIGG"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="EXO-MnSIGG" Image="" String="Solicitar nuevos Códigos" Type="1" UniqueID="EXO-MnSIGS"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="EXO-MnSIGG" Image="" String="Gestión" Type="1" UniqueID="EXO-MnSIGC"></Menu>
+    </action>
+  </Menus>
+</Application>
+
